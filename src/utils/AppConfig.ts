@@ -1,10 +1,10 @@
 export const AppConfig = {
-  site_name: 'Starter',
+  site_name: 'TL;DR',
   title: `Too Long; Didn't Read`,
   description:
-    `A blog about travel`,
-  url: 'https://example.com',
+    `My life in a backpack`,
+  url: 'https://too-long-didnt-read.au',
   locale: 'en',
-  author: 'Anonymous',
+  author: 'Tom L de Ruijter',
   pagination_size: 5,
 };
