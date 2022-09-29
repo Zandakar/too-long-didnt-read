@@ -9,7 +9,14 @@ const About = () => (
     <Content>
       <h1 className="text-center  text-3xl text-gray-900">{`About`}</h1>
       <br></br>
-      <div>
+      <div className="flex justify-center items-center">
+        <img
+          src="..\assets\images\posts\about-pic.jpg"
+          alt="Italian Trulli"
+          className="w-1/2"
+        ></img>
+      </div>
+      <div className="pt-14">
         {`My name is Tom L. de Ruijter (TLDR), and this is my personal travel blog. The
         main purpose of this blog is to:`}
         <li>{`Document my travels for myself, friends and family`}</li>
