@@ -36,7 +36,7 @@ const About = () => (
       </div>
       <br />
       <br />
-      <div>
+      <div className="mb-48">
         This blog was created using a templete made by{" "}
         <a href="https://creativedesignsguru.com">CreativeDesignsGuru</a>. Check
         out the GitHub repo{" "}
