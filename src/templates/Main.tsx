@@ -28,6 +28,11 @@ const Main = (props: IMainProps) => (
                 <a>About</a>
               </Link>
             </li>
+            <li className="mr-6">
+              <Link href="/rules-of-backpacking/">
+                <a>Rules of Backpacking</a>
+              </Link>
+            </li>
           </Navbar>
         </div>
         <div className="">
