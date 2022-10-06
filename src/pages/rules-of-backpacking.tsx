@@ -22,7 +22,9 @@ const Page = () => (
           <li>{`Always carry cash`}</li>
           <li>{`Don't forget to bring a towel (into the bathroom with you)`}</li>
           <li>{`Don't forget your passport in the hotel safe`}</li>
-          <li>{`Use packing / compression cubes`}</li>
+          <li>{`Use packing / compression cubes to organize your gear. Close them when you're done`}</li>
+          <li>{`If you're thinking too little, read. If you're thinking too much, write`}</li>
+          <li>{`Don't be afraid to take up some space. Don't be selfish, but if you don't use it, somebody else will.`}</li>
         </ol>
         <br />
       </div>
