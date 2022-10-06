@@ -21,6 +21,8 @@ const Page = () => (
           <li>{`PUT YOUR PHONE ON SILENT`}</li>
           <li>{`Always carry cash`}</li>
           <li>{`Don't forget to bring a towel (into the bathroom with you)`}</li>
+          <li>{`Don't forget your passport in the hotel safe`}</li>
+          <li>{`Use packing / compression cubes`}</li>
         </ol>
         <br />
       </div>
