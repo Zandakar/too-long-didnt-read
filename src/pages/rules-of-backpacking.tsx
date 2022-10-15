@@ -27,10 +27,10 @@ const Page = () => (
           <li>{`If you're thinking too little, read. If you're thinking too much, write`}</li>
           <li>{`Don't be afraid to take up some space. Don't be selfish, but if you don't use it, somebody else will.`}</li>
           <li>{`There is always someone in the room with you`}</li>
-         <li>{`Don't book too far in advance, things change. There will always be room.`}</li>
-         <li>{`Bring some meds. You don't want to go and find them when you need them`}</li>
-         <li>{`Give yourself at least a month to sort out vaccines`}</li>
-         <li>{`Only bring what you need, no "what if" gear. Can always buy more.`}</li>
+         <li>{`Get your vaccines, bring some meds`}</li>
+         <li>{`Don't book too far in advance, things change. They will always have a room.`}</li>
+         <li>{`Only bring what you need right now. Buy the rest later`}</li>
+         <li>{`Beds are giant mousepads`}</li>
         </ol>
         <br />
       </div>

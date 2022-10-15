@@ -34,13 +34,14 @@ Clothes:
 \
 Other gear:
 - Meds
-- 2x compression cubes
-- 3x Packing cubes
-- 1x Tote bag
+- Compression cubes 2x
+- Packing cubes 3x
+- 1x Tote bag. For dirty laundry 
 - Novation mk3 mini MIDI keyboard
-- Kindle
-- Travel towel
-- Sleep mask
+- Kindle. For any readers out there that haven't tried using one, give the kindle a week. I promise you that you don't like the physical feeling of books as much as you think you do, and the ability to carry 30+ books (and get more whenever you want) is a game changer.
+- Travel towel. Bring one.
+- Sleep mask. 
+- Ear plugs
 - Fork
 - Portable battery
 - Earphones
