@@ -34,8 +34,6 @@ const Page = () => (
                    rocking up to a train station and waiting ~20 mins never failed me`}</li>
                    <li>{`DonkeyRepublic - Bike sharing app. Best around Amsterdam, although there are many similar
                    services like it.`}</li>
-
-  
         </ol>
         <br />
       </div>

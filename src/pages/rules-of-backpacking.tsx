@@ -30,6 +30,7 @@ const Page = () => (
          <li>{`Don't book too far in advance, things change. There will always be room.`}</li>
          <li>{`Bring some meds. You don't want to go and find them when you need them`}</li>
          <li>{`Give yourself at least a month to sort out vaccines`}</li>
+         <li>{`Only bring what you need, no "what if" gear. Can always buy more.`}</li>
         </ol>
         <br />
       </div>
