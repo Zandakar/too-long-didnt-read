@@ -1,8 +1,8 @@
 ---
 title: Packing list
 description: Description
-date: "2022-10-16"
-modified_date: "2022-10-16" 
+date: "2022-10-19"
+modified_date: "2022-10-19" 
 image: /assets/images/posts/random-img.jpg
 ---
 My general philosophy on packing clothing is that I want to do a wash cycle around every 5 days. Your washing cycles will be based on what runs out first, so don't pack 6 shirts and 1 pair of socks. Packing for winter weather is more difficult, since a lot of space is taken up by warm weather clothes.
@@ -82,6 +82,7 @@ I would recommend that you bring only things you actually NEED, and that you buy
 - Same as above. I'm a side sleeper and brought "loops" from amazon - they work well but hurt after a while. I still carry some foam ones with me for this reason
 \
 **Fork**
+- Man's gotta eat. Great for buying things from super markets and eating them on the go
 \
 **Portable battery**
 \
@@ -95,6 +96,7 @@ I would recommend that you bring only things you actually NEED, and that you buy
 - Great mouse
 \
 **Bag protector**
+- Protects bag against the rain. Bag is relatively water proof, not sure if worth it yet.
 \
 **Sunnies**
 \
@@ -104,18 +106,19 @@ I would recommend that you bring only things you actually NEED, and that you buy
 **Toiletry bag**
 \
 **Pilot pens**
+- Good quality, recommend 
 \
 **Passport holder**
 \
 **1L drink bottle**
 - Could easily get away with 750ml
+\
 **Padlocks (in next photo) 2x**
 - Get a thick and a thin padlock (wire preferred). Different hostels have different locks, one size doesn't fit all.
-\
-
 \
 \
 ![](/assets/images/posts/post-4/bags.jpg)
 \
 \
-Bag: Ospray farpoint 55L (M/L). Comes as 2 bags, a ~40L backpack and 15L daybag. The daybag is a pain in the ass to attach when both bags are full, but other than that I can't fault the bag and would recommend to others. Note that it comes in 2 sizes, and they vary greatly in where the supports are, so go to a physical store to get sized up before purchasing. 
+***-- Bag --***
+- Ospray farpoint 55L (M/L). Comes as 2 bags, a ~40L backpack and 15L daybag. The daybag is a pain in the ass to attach when both bags are full, but other than that I can't fault the bag and would recommend to others. Note that it comes in 2 sizes, and they vary greatly in where the supports are, so go to a physical store to get sized up before purchasing. 
