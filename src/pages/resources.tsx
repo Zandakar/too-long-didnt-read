@@ -12,6 +12,7 @@ const Page = () => (
   >
     <Content>
       <h1 className="text-center  text-3xl text-gray-900">{`-- Resources --`}</h1>
+      <div>       <a href="/posts/post-04/">My Gear</a>{`- My initial packing list for Europe from Sept to Nov`}</div>
       <br></br>
       <h2 className="text-center  text-2xl text-gray-900">{`General cool things`}</h2>
       <br></br>
@@ -38,14 +39,14 @@ const Page = () => (
         </ol>
         <br />
       </div>
-            <h2 className="text-center  text-2xl text-gray-900">{`The Netherlands`}</h2>
+            <h2 className="text-center  text-2xl text-gray-900">{`Other`}</h2>
             <br></br>
       <div className="flex justify-center items-center"></div>
       <div>
         <ol className="list-decimal">
-                   <li>{`NSRail - Google maps can't be trusted in NL. Use this instead if you have to, although simply
+                   <li>{`NSRail (The Netherlands) - Google maps can't be trusted in NL. Use this instead if you have to, although simply
                    rocking up to a train station and waiting ~20 mins never failed me`}</li>
-                   <li>{`DonkeyRepublic - Bike sharing app. Best around Amsterdam, although there are many similar
+                   <li>{`DonkeyRepublic (The Netherlands) - Bike sharing app. Best around Amsterdam, although there are many similar
                    services like it.`}</li>
         </ol>
         <br />

@@ -1,5 +1,5 @@
 ---
-title: Packing list
+title: Packing List
 description: Description
 date: "2022-10-19"
 modified_date: "2022-10-19" 
@@ -86,14 +86,15 @@ I would recommend that you bring only things you actually NEED, and that you buy
 \
 **Portable battery**
 \
-**Earphones**
+**AUX Earphones**
 \
 **Xbox controller**
 \
 **Laptop**
+- Mine is pretty bulky. If you can get away with it, try use something like a surface / tablet that can charge through USB-C, that way you can use your phone charger and really reduce your total weight.
 \
 **Logitech G9 gaming mouse**
-- Great mouse
+- Great mouse if you're into gaming / programming, although probably a bit much for the average person
 \
 **Bag protector**
 - Protects bag against the rain. Bag is relatively water proof, not sure if worth it yet.
@@ -122,3 +123,8 @@ I would recommend that you bring only things you actually NEED, and that you buy
 \
 ***-- Bag --***
 - Ospray farpoint 55L (M/L). Comes as 2 bags, a ~40L backpack and 15L daybag. The daybag is a pain in the ass to attach when both bags are full, but other than that I can't fault the bag and would recommend to others. Note that it comes in 2 sizes, and they vary greatly in where the supports are, so go to a physical store to get sized up before purchasing. 
+\
+\
+![](/assets/images/posts/post-4/bag-full.jpg)
+
+
