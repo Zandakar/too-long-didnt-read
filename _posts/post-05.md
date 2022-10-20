@@ -5,8 +5,10 @@ date: "2022-10-20"
 modified_date: "2022-10-20"
 image: /assets/images/posts/random-img.jpg
 ---
-I spent the last 5 days in a hotel-turned-esport-centre called RCADIA in Hamburg. On my second to last day there I met a pro rocket league player (who helped me out after a failed bench press set, oops). I fanboyed a little bit, and would have loved the opportunity to do something like that myself. Gave the racing sims a good thrashing.
+I spent the last 5 days in a hotel-turned-esport-centre called RCADIA in Hamburg. On my second to last day there I met a pro rocket league player (who helped me out after a failed bench press set, oops). I fanboyed a little bit, and would have loved the opportunity to do something like that myself.
 \
+\
+Gave the racing sims a good thrashing
 \
 ![](/assets/images/posts/post-05/sim.jpg)
 \
@@ -47,6 +49,6 @@ Ciao
 ![](/assets/images/posts/post-05/me.jpg)
 \
 \
+I found myself eating yoghurt with a fork for dinner at 10 on a Saturday. Somehow this felt like peak backpacking
+\
 ![](/assets/images/posts/post-05/snack.jpg)
-\
-\
