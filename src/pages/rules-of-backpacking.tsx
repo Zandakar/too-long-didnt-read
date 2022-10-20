@@ -20,7 +20,7 @@ const Page = () => (
           <li>{`Don't forget to bring a towel`}</li>
           <li>{`Put your phone on silent`}</li>
           <li>{`PUT YOUR PHONE ON SILENT`}</li>
-          <li>{`Always carry cash`}</li>
+          <li>{`Always carry cash. Enough for a ticket home, not enough to worry about losing`}</li>
           <li>{`Don't forget to bring a towel (into the bathroom with you)`}</li>
           <li>{`Don't forget your passport in the hotel safe`}</li>
           <li>{`Use packing / compression cubes to organize your gear. Close them when you're done`}</li>
