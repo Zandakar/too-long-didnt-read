@@ -17,7 +17,7 @@ One thing I've realised as I'm travelling more is that had I grown up in the Net
 \
 \
 *Das Rathaus (State House), built after the great fire of 1842*  
-*Buildings with green roofs survived WW2. Post war construction didn't use copper*
+*Buildings with bright green roofs survived WW2 since they take 100s of years to fully oxidise. Notice the building to the right is new*
 ![](/assets/images/posts/post-05/state-house.jpg)
 \
 \
@@ -27,7 +27,7 @@ Took a walking tour through the Hamburg city centre (yes, it's where Hamburgers 
 ![](/assets/images/posts/post-05/city-01.jpg)
 \
 \
-I ended up walking around with a Greek Girl, Dimitri, who studied architecture and had some interesting insights. She put me on to an app called Workaway, through which she spent time living in a community, working for board. That sounds pretty cool to me, and might be something I pursue in the near future.
+I ended up walking around with a Greek Girl, Dimitri, who studied architecture and had some interesting insights (Like that "design" usually has purpose or function, but art doesn't). She put me on to an app called Workaway, through which she spent time living in a community, working for board. That sounds pretty cool to me, and might be something I pursue in the near future.
 \
 \
 *Hamburgische Staatsoper (Hamburg State House). Initial estimation was 78M, final cost ~900M*
