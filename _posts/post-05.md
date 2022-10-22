@@ -5,10 +5,10 @@ date: "2022-10-20"
 modified_date: "2022-10-20"
 image: /assets/images/posts/random-img.jpg
 ---
-I spent the last 5 days in a hotel-turned-esport-centre called RCADIA in Hamburg. On my second to last day there I met a pro rocket league player (who helped me out after a failed bench press set, oops). I fanboyed a little bit, and would have loved the opportunity to do something like that myself.
+I spent the last 5 days in a hotel-turned-esport-centre called RCADIA in Hamburg. On my second to last day there I met a pro rocket (currently my favourite game) league player (who saved me at the gym after I failed my bench press set, oops) and I fanboyed a little bit. I would have loved the opportunity to do something like that myself at his age.
 \
 \
-Gave the racing sims a good thrashing
+*Gave the racing sims a good thrashing*
 \
 ![](/assets/images/posts/post-05/sim.jpg)
 \
@@ -16,6 +16,8 @@ Gave the racing sims a good thrashing
 One thing I've realised as I'm travelling more is that had I grown up in the Netherlands, this is something I would have surely done more often. In a way, I've always thought my life in Australia was better in every aspect, but there are definitely things I've missed out on. Not that I'd want it to be different, but it's interesting to think about how different I would be as a person had I grown up in Europe instead.
 \
 \
+*Das Rathaus (State House), built after the great fire of 1842*  
+*Buildings with green roofs survived WW2. Post war construction didn't use copper*
 ![](/assets/images/posts/post-05/state-house.jpg)
 \
 \
@@ -28,6 +30,7 @@ Took a walking tour through the Hamburg city centre (yes, it's where Hamburgers 
 I ended up walking around with a Greek Girl, Dimitri, who studied architecture and had some interesting insights. She put me on to an app called Workaway, through which she spent time living in a community, working for board. That sounds pretty cool to me, and might be something I pursue in the near future.
 \
 \
+*Hamburgische Staatsoper (Hamburg State House). Initial estimation was 78M, final cost ~900M*
 ![](/assets/images/posts/post-05/art-place.jpg)
 \
 \
@@ -49,6 +52,5 @@ Ciao
 ![](/assets/images/posts/post-05/me.jpg)
 \
 \
-I found myself eating yoghurt with a fork for dinner at 10 on a Saturday. Somehow this felt like peak backpacking
-\
+*Dinner*
 ![](/assets/images/posts/post-05/snack.jpg)
