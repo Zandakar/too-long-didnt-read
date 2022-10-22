@@ -1,3 +1,4 @@
+
 import React from "react";
 
 import { Content } from "../content/Content";
@@ -46,8 +47,7 @@ const Page = () => (
         <ol className="list-decimal">
                    <li>{`NSRail (The Netherlands) - Google maps can't be trusted in NL. Use this instead if you have to, although simply
                    rocking up to a train station and waiting ~20 mins never failed me`}</li>
-                   <li>{`DonkeyRepublic (The Netherlands) - Bike sharing app. Best around Amsterdam, although there are many similar
-                   services like it.`}</li>
+                   <li>{`DonkeyRepublic (The Netherlands / Germany) - Bike sharing app. Works best in major cities`}</li>
         </ol>
         <br />
       </div>

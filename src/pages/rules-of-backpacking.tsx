@@ -31,7 +31,8 @@ const Page = () => (
          <li>{`Don't book too far in advance, things change. They will always have a room.`}</li>
          <li>{`Only bring what you need right now. Buy the rest later`}</li>
          <li>{`Beds are giant mousepads`}</li>
-        <li>{`If you want to save some money use booking websites to see which hostels have space, then call them up directly`}</li>
+         <li>{`Most countries have apps you can use to buy rail tickets`}</li>
+         <li>{`Eat a salad sometimes`}</li>
         </ol>
         <br />
       </div>

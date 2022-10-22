@@ -1,8 +1,8 @@
 ---
 title: "Hamburg"
 description: Hamburg
-date: "2022-10-20"
-modified_date: "2022-10-20"
+date: "2022-10-22"
+modified_date: "2022-10-22"
 image: /assets/images/posts/random-img.jpg
 ---
 I spent the last 5 days in a hotel-turned-esport-centre called RCADIA in Hamburg. On my second to last day there I met a pro rocket (currently my favourite game) league player (who saved me at the gym after I failed my bench press set, oops) and I fanboyed a little bit. I would have loved the opportunity to do something like that myself at his age.
