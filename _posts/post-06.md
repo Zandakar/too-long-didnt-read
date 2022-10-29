@@ -5,7 +5,7 @@ date: "2022-10-28"
 modified_date: "2022-10-28"
 image: /assets/images/posts/random-img.jpg
 ---
-Berlin is a pretty cool city. If you want to go out on a Wednesday night, you can do that. If you'd like to see some 800 year old buildings the next morning, you can do that too. The food here is on point, but they definitely have too many kebab places. There is a sense of freedom / openness, and I've never seen so many mohawks in my life. 
+Berlin is a pretty cool city. If you want to go out on a Wednesday night, you can do that. If you'd like to see some 800 year old buildings the next morning, you can do that too. The food here is on point, but they definitely have too many donner (kebab) places. There is a sense of freedom / openness, and I've never seen so many mohawks in my life. 
 \
 \
 ![](/assets/images/posts/post-06/lion.jpg)
@@ -56,15 +56,13 @@ I'll be spending a few more days in Berlin and then heading off to Prague. I'm n
 ![](/assets/images/posts/post-06/game3.jpg)
 \
 \
-![](/assets/images/posts/post-06/stop-reading-my-image-names.jpg)
-\
-\
 ![](/assets/images/posts/post-06/street2.jpg)
 \
 \
 ![](/assets/images/posts/post-06/tower-1.jpg)
 \
 \
+*T.V Tower, essentially the Easts' (Russian) fuck you to the west*
 ![](/assets/images/posts/post-06/tv-tower.jpg)
 \
 \
@@ -75,6 +73,9 @@ I'll be spending a few more days in Berlin and then heading off to Prague. I'm n
 \
 \
 ![](/assets/images/posts/post-06/wall3.jpg)
+\
+\
+![](/assets/images/posts/post-06/stop-reading-my-image-names.jpg)
 \
 \
 ![](/assets/images/posts/post-06/wall5.jpg)
