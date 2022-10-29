@@ -16,7 +16,6 @@ const Page = () => (
       <div className="flex justify-center items-center"></div>
       <div>
         <ol className="list-decimal">
-                   {/* <li>{``}</li> */}
           <li>{`Don't forget to bring a towel`}</li>
           <li>{`Put your phone on silent`}</li>
           <li>{`PUT YOUR PHONE ON SILENT`}</li>
@@ -31,8 +30,12 @@ const Page = () => (
          <li>{`Don't book too far in advance, things change. They will always have a room.`}</li>
          <li>{`Only bring what you need right now. Buy the rest later`}</li>
          <li>{`Beds are giant mousepads`}</li>
-         <li>{`Most countries have apps you can use to buy rail tickets`}</li>
          <li>{`Eat a salad sometimes`}</li>
+         <li>{`I hope you like snoring (bring earplugs + eye mask)`}</li>
+         <li>{`I hope you like other people's music`}</li>
+         <li>{`I hope you're not a shy pooper`}</li>
+        <li>{`Avoid places that charge you to hold luggage between checkins. They tend to miss the point / feel stale`}</li>
+        <li>{`It's OK to spend the day doing nothing`}</li>
         </ol>
         <br />
       </div>
