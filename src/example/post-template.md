@@ -1,8 +1,8 @@
 ---
 title: ""
 description: Description
-date: "2022-"
-modified_date: 
+date: "2022-10-22"
+modified_date: "2022-10-22"
 image: /assets/images/posts/random-img.jpg
 ---
 bla
