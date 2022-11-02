@@ -28,7 +28,7 @@ const Page = () => (
           <li>{`There is always someone in the room with you`}</li>
          <li>{`Get your vaccines, bring some meds`}</li>
          <li>{`Don't book too far in advance, things change. They will always have a room.`}</li>
-         <li>{`Only bring what you need right now. Buy the rest later`}</li>
+         <li>{`Only bring what you need right now. Buy the rest as you need it`}</li>
          <li>{`Beds are giant mousepads`}</li>
          <li>{`Eat a salad sometimes`}</li>
          <li>{`I hope you like snoring (bring earplugs + eye mask)`}</li>
@@ -36,6 +36,7 @@ const Page = () => (
          <li>{`I hope you're not a shy pooper`}</li>
         <li>{`Avoid places that charge you to hold luggage between checkins. They tend to miss the point / feel stale`}</li>
         <li>{`It's OK to spend the day doing nothing`}</li>
+        <li>{`More expensive hostels bring older crows, cheaper ones party harder`}</li>
         </ol>
         <br />
       </div>
