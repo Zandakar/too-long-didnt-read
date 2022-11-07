@@ -5,16 +5,25 @@ date: "2022-11-04"
 modified_date: "2022-11-04"
 image: /assets/images/posts/random-img.jpg
 ---
-The Netherlands and Germany are comparatively pretty expensive countries. Going towards the Czech Republic / Hungary means I can finally afford my own room in hostels. No more snoring! There's something pretty cool about staying in dorms, especially if you get a good room, but I'm looking forward to consistently having my own space.
+
 \
 \
-You never get to see everything you want in any particular city. I'm sad about leaving Berlin, but keen on a change of scenery.
+You never get to see everything you want in any particular city. I wish I could have stayed in Berlin longer, but I'm also keen on a change of scenery.
 \
 \
-For the first time in my life I'm actually starting to feel old. Many of the people I'm meeting are early 20's and while there isn't much of a difference character-wise (maybe that's a reflection on me?), if I try to keep up with them I get my ass kicked. I got a pretty bad chest infection last week and spent another few days in bed. Didn't want to bitch and moan about being sick every week, but also think it's important to log things as truthfully as possible. I stayed up drinking till 4 am for a week straight after getting Covid, so I think this one's on me.
+Prague has the kind of history that I wanted to see in Europe. Once the capital of the great Bohemia (which took up about 1/3 of Europe by size), it is now a humble city with a population of 1.3 Million. While there are many churches and religions statues, the country is now ~80% Atheist, and holds the crown for most beer consumed by population at 181.7L / person annually.
 \
 \
-Brands are meaningless when you travel. Which supermarket has what I need?  
+It still feels wrong to be able to buy alcohol in the stores and drink on the street. While public drinking is cool, I think that only selling drinks in separate liquor stores is a good thing - If you're trying to quit or pull back your drinking, not being able to get groceries without seeing 50 ml bottles of Jaeger at the checkouts would test even the strongest of wills eventually.
+\
+\
+For the first time in my life I'm actually starting to feel old. Many of the people I'm meeting are early 20's and while there isn't much of a difference character-wise (I think that one's on me), if I try to keep up with them I get my ass kicked. 
+\
+\
+I haven't met anyone else that's travelling for longer than 2 months yet. Most of the travellers I come across are European themselves doing weekend trips, or sometimes for as long as a month or two. It's very different to Japan, where I regularly met backpackers staying for up to a year.
+\
+\
+The hostel I stayed at in Prague was truly a shithole. Lesson learned - accommodation is more than just a place to sleep, and it's worth spending some extra time and money to find a place that you'll enjoy staying at.
 \
 \
 ![](/assets/images/posts/post-06/wall3.jpg)
