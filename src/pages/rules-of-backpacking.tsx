@@ -19,23 +19,25 @@ const Page = () => (
           <li>{`Don't forget to bring a towel`}</li>
           <li>{`Put your phone on silent`}</li>
           <li>{`PUT YOUR PHONE ON SILENT`}</li>
-          <li>{`Always carry cash. Enough for a ticket home, not enough to worry about losing`}</li>
+          <li>{`Always carry cash. Enough for a train ticket home, not enough to worry about losing`}</li>
           <li>{`Don't forget to bring a towel (into the bathroom with you)`}</li>
           <li>{`Don't forget your passport in the hotel safe`}</li>
           <li>{`Use packing / compression cubes to organize your gear. Close them when you're done`}</li>
           <li>{`If you're thinking too little, read. If you're thinking too much, write`}</li>
           <li>{`Don't be afraid to take up some space. Don't be selfish, but if you don't use it, somebody else will.`}</li>
           <li>{`There is always someone in the room with you`}</li>
-         <li>{`Get your vaccines, bring some meds`}</li>
+         <li>{`Get your vaccines and bring some meds`}</li>
          <li>{`Don't book too far in advance, things change. They will always have a room.`}</li>
-         <li>{`Only bring what you need right now. Buy the rest later`}</li>
+         <li>{`Only bring what you need right now. Buy the rest as you need it`}</li>
          <li>{`Beds are giant mousepads`}</li>
          <li>{`Eat a salad sometimes`}</li>
          <li>{`I hope you like snoring (bring earplugs + eye mask)`}</li>
-         <li>{`I hope you like other people's music`}</li>
+         <li>{`I hope you like other people's text notifications`}</li>
          <li>{`I hope you're not a shy pooper`}</li>
         <li>{`Avoid places that charge you to hold luggage between checkins. They tend to miss the point / feel stale`}</li>
         <li>{`It's OK to spend the day doing nothing`}</li>
+        <li>{`More expensive hostels bring older crows, cheaper ones party harder`}</li>
+        <li>{`Most cities have apps that let you buy public transport tickets`}</li>
         </ol>
         <br />
       </div>
