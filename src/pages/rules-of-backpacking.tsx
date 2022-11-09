@@ -32,7 +32,7 @@ const Page = () => (
          <li>{`Beds are giant mousepads`}</li>
          <li>{`Eat a salad sometimes`}</li>
          <li>{`I hope you like snoring (bring earplugs + eye mask)`}</li>
-         <li>{`I hope you like other people's music`}</li>
+         <li>{`I hope you like other people's text notifications`}</li>
          <li>{`I hope you're not a shy pooper`}</li>
         <li>{`Avoid places that charge you to hold luggage between checkins. They tend to miss the point / feel stale`}</li>
         <li>{`It's OK to spend the day doing nothing`}</li>

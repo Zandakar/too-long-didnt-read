@@ -13,7 +13,7 @@ const Page = () => (
   >
     <Content>
       <h1 className="text-center  text-3xl text-gray-900">{`-- Resources --`}</h1>
-      <div>       <a href="/posts/post-04/">My Gear</a>{`- My initial packing list for Europe from Sept to Nov`}</div>
+      <div>       <a href="https://too-long-didnt-read.au/posts/post-04/">My Gear</a>{`- My initial packing list for Europe from Sept to Nov`}</div>
       <br></br>
       <h2 className="text-center  text-2xl text-gray-900">{`General cool things`}</h2>
       <br></br>
@@ -29,13 +29,11 @@ const Page = () => (
       <div className="flex justify-center items-center"></div>
       <div>
         <ol className="list-decimal">
+                   <li>{`HostelWorld - Best app for booking hostels. Puts you in chats with all others who are staying there`}</li>
                    <li>{`AirBnB - Other than accomidation, the experiences you can find on here are pretty cool`}</li>
-                   <li>{`HostelWorld - For booking hostels`}</li>
-                   <li>{`Booking.com - Sort by cheapest and scroll until you find high rated hostels.`}</li>
                    <li>{`GetYourGuide - Walking tours, bar crawls, general experiences`}</li>
                    <li>{`GuruWalk - Similar to above`}</li>
                   <li>{`Workaway - find volunteer work. Costs 50€ / year but has some really cool gigs`}</li>
-                  <li>{`Blablacar - Hitchhiking app. They can sometimes request money`}</li>
                   <li>{`FlixBus - Cheap European intra and international travel`}</li>
         </ol>
         <br />
