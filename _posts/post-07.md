@@ -95,4 +95,5 @@ Ahoj, till next time.
 ![](/assets/images/posts/post-07/wall.jpg)
 \
 \
+![](/assets/images/posts/post-07/dimitra.jpeg)
 “It is inside myself that I must create someone who will understand” - Clarice Lispector
