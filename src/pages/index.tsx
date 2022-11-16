@@ -1,6 +1,7 @@
 import React from "react";
 
 import { GetStaticProps } from "next";
+import ReactGA from 'react-ga';
 
 import { BlogGallery, IBlogGalleryProps } from "../blog/BlogGallery";
 import { Meta } from "../layout/Meta";
@@ -8,6 +9,13 @@ import { IPaginationProps } from "../pagination/Pagination";
 import { Main } from "../templates/Main";
 import { AppConfig } from "../utils/AppConfig";
 import { getAllPosts } from "../utils/Content";
+
+
+ReactGA.initialize('G-CSHNLE6TNL');
+
+
+
+
 
 const Index = (props: IBlogGalleryProps) => (
   <Main meta={<Meta title="Home" description={AppConfig.description} />}>
