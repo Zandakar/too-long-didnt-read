@@ -12,6 +12,7 @@ import { getAllPosts } from "../utils/Content";
 
 
 ReactGA.initialize('G-5LX7ZPWY7X');
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 const Index = (props: IBlogGalleryProps) => (
   <Main meta={<Meta title="Home" description={AppConfig.description} />}>
