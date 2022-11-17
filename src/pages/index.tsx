@@ -11,11 +11,7 @@ import { AppConfig } from "../utils/AppConfig";
 import { getAllPosts } from "../utils/Content";
 
 
-ReactGA.initialize('G-CSHNLE6TNL');
-
-
-
-
+ReactGA.initialize('G-5LX7ZPWY7X');
 
 const Index = (props: IBlogGalleryProps) => (
   <Main meta={<Meta title="Home" description={AppConfig.description} />}>
