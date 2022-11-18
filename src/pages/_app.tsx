@@ -13,8 +13,8 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
 
   useEffect(() => {
     const handleRouteChange = () => {
-    ReactGA.set({ page: location.pathname });
-    ReactGA.pageview(location.pathname)
+      ReactGA.set({ page: location.pathname });
+      ReactGA.pageview(location.pathname)
     }
 
     router.events.on('routeChangeComplete', handleRouteChange)
@@ -25,7 +25,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
       router.events.off('routeChangeComplete', handleRouteChange)
     }
   }, [])
-  
+
   return <Component {...pageProps} />
 };
 
