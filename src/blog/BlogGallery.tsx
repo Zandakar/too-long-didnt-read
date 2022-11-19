@@ -19,29 +19,26 @@ const BlogGallery = (props: IBlogGalleryProps) => (
   <>
     <ul>
       {props.posts.map((elt) => {
+
+
+        // // Potential code for adding /index when not in dev server
         // Get full URL (localhost or too-long...)
-        const { asPath } = useRouter();
-        const origin =
-          typeof window !== 'undefined' && window.location.origin
-            ? window.location.origin
-            : '';
+        // const { asPath } = useRouter();
+        // const origin =
+        //   typeof window !== 'undefined' && window.location.origin
+        //     ? window.location.origin
+        //     : '';
+        // const URL = `${origin}${asPath}`;
+        // const isDevelopmentServer = URL.includes("localhost")
+        // const indexPostpend = !isDevelopmentServer ? `/index.html` : ''
 
-        const URL = `${origin}${asPath}`;
-        // console.log(URL)
-        const isDevelopmentServer = URL.includes("localhost")
-        // if (isDevelopmentServer) {
-        //   console.log("@@@@@@@@@@@@@@@@@@")
-        // }
-
-        const indexPostpend = !isDevelopmentServer ? `/index.html` : ''
-
-        console.log(indexPostpend)
-        console.log(`/posts/${elt.slug} + ${indexPostpend}`)
+        // console.log(elt)
+        // console.log(`/posts/${elt.slug} + ${indexPostpend}`)
 
 
         return (<li key={elt.slug} className="mb-3 flex justify-between">
-          <Link href={`/posts/[slug]${indexPostpend}`}
-            as={`/posts/${elt.slug}${indexPostpend}`}>
+          <Link href={`/posts/[slug]`}
+            as={`/posts/${elt.slug}`}>
             <a>
               <h2>{elt.title}</h2>
             </a>
