@@ -2,22 +2,19 @@ console.log('Loading function');
 import AWS from "aws-sdk";
 var dynamodb = new AWS.DynamoDB({ apiVersion: '2012-08-10' });
 
-exports.handler = (event, context, callback) => {
+export const handler = async (event, context) => {
     console.log(JSON.stringify(event, null, '  '));
-    var tableName = "TLDR_Mail_List";
-    dynamodb.putItem({
-        "TableName": tableName,
+    console.log('before putitem')
+
+    const bla = await dynamodb.putItem({
+        "TableName": "TLDR_Mail_List",
         "Item": {
-            "Email": "tom.deruijter@hotmail.com",
+            "Email": { S: "lambda@test.com" }
         }
-    }, function (err, data) {
-        if (err) {
-            console.log('Error putting item into dynamodb failed: ' + err);
-            context.done('error');
-        }
-        else {
-            console.log('great success: ' + JSON.stringify(data, null, '  '));
-            context.done('Done');
-        }
-    });
+    }).promise()
+
+
+    console.log('after putitem')
+    console.log(bla)
+    return bla
 };
