@@ -7,6 +7,10 @@ import Button from '@mui/material/Button';
 import TextField from '@mui/material/TextField';
 import SendIcon from '@mui/icons-material/Send';
 
+
+// https://p23xchxvcg.execute-api.ap-southeast-2.amazonaws.com/prd/email/add
+// https://mui.com/material-ui/api/form-control/
+
 const MailingList = () => (
   <Main meta={<Meta title="Mailing List" description="Mailing List" />}>
     < Content >
