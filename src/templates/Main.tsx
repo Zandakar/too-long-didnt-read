@@ -33,9 +33,14 @@ const Main = (props: IMainProps) => (
                 <a>Rules of Backpacking</a>
               </Link>
             </li>
-              <li className="mr-6">
+            <li className="mr-6">
               <Link href="/resources/">
                 <a>Resources</a>
+              </Link>
+            </li>
+            <li className="mr-6">
+              <Link href="/mailing-list/">
+                <a>Mailing List</a>
               </Link>
             </li>
           </Navbar>
