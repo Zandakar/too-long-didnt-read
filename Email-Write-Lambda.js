@@ -3,18 +3,36 @@ import AWS from "aws-sdk";
 var dynamodb = new AWS.DynamoDB({ apiVersion: '2012-08-10' });
 
 export const handler = async (event, context) => {
-    console.log(JSON.stringify(event, null, '  '));
-    console.log('before putitem')
+    console.log('event body')
+    console.log(event.body);
 
-    const bla = await dynamodb.putItem({
-        "TableName": "TLDR_Mail_List",
+    let body
+    try {
+        body = JSON.parse(event.body)
+    } catch (e) {
+        throw new Error("Error parsing event body")
+    }
+    console.log(typeof (body))
+    const TABLE_NAME = "TLDR_Mail_List"
+
+    console.log("body.email")
+    console.log(body.email)
+
+    if (!body.email) {
+        throw new Error('Event must include an mail address')
+    }
+
+    const userEmail = body.email
+
+    const result = await dynamodb.putItem({
+        "TableName": TABLE_NAME,
         "Item": {
-            "Email": { S: "lambda@test.com" }
+            "Email": { S: userEmail }
         }
     }).promise()
 
 
     console.log('after putitem')
-    console.log(bla)
-    return bla
+    console.log(result)
+    return result
 };
