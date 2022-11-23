@@ -11,7 +11,7 @@ import { AppConfig } from "../utils/AppConfig";
 import { getAllPosts } from "../utils/Content";
 
 
-ReactGA.initialize('G-5LX7ZPWY7X');
+ReactGA.initialize('UA-249868625-1');
 ReactGA.pageview('/');
 console.log("Get out of my console you nerd")
 
