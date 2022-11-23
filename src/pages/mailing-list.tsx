@@ -14,6 +14,8 @@ import fetch from 'node-fetch';
 const MailingList = () => {
   const [emailField, setEmailField] = useState()
   const [isSending, setIsSending] = useState(false)
+  const [hasSent, setHasSent] = useState(false)
+  const [isSuccesful, setIsSuccesful] = useState(false)
 
   const onClick = async () => {
     console.log(emailField)
@@ -29,11 +31,22 @@ const MailingList = () => {
       });
       const data = await response.json();
 
+      console.log('data')
       console.log(data)
+
+      if (data.message.includes('Error')) {
+        throw new Error('Error in send email request')
+      }
+
+
       setIsSending(false)
+      setHasSent(true)
+      setIsSuccesful(true)
     } catch (e) {
+      console.log('send error')
       console.error(e)
       setIsSending(false)
+      setHasSent(true)
     }
 
   }
@@ -58,17 +71,37 @@ const MailingList = () => {
       <div style={{ display: 'flex' }}>
         <Button
           onClick={onClick}
+          disabled={isSending}
           style={{
             borderRadius: 35,
             backgroundColor: "#419bf0",
+
           }} variant="contained" endIcon={<SendIcon />}>
-          Add me!
+          Add me
         </Button>
-        {isSending ? <div style={{ marginLeft: '20px', marginTop: '10px' }}>
+      </div>
+
+      {
+        // spinner
+        isSending ? <div style={{ marginTop: '10px', marginTop: '40px' }}>
           <CircularProgress></CircularProgress>
         </div> :
-          <div></div>}
+          // no spinner
+          <div></div>
+      }
+      <div style={{ width: '80%', marginTop: '40px' }}>
+        {
+          // on Success
+          hasSent && isSuccesful && <div style={{ marginTop: '10px' }}>Success!</div>
+        }
+        {
+          // on fail
+          hasSent && !isSuccesful && <div style={{ marginTop: '10px', color: 'red' }}>
+            Something went wrong, sorry! Throw me a line at
+            tom.deruijter@hotmail.com and I can manually add you (and maybe fix this)</div>
+        }
       </div>
+
     </Main >
   )
 };
