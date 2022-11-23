@@ -9,6 +9,9 @@ const About = () => (
     <Content>
       <h1 className="text-center  text-3xl text-gray-900">{`About`}</h1>
       <br></br>
+      {`TL;DR - a briefly expressed main point or key message that summarizes a longer discussion or explanation`}
+      <br></br>
+      <br></br>
       <div className="flex justify-center items-center">
         <img
           src="..\assets\images\posts\about-pic.jpg"

@@ -1,7 +1,10 @@
 {
-  "trailingComma": "es5",
-  "tabWidth": 4,
-  "semi": false,
-  "singleQuote": true,
-  "maxLineLength": 80
+  "extends": [
+    "plugin:prettier/recommended"
+  ],
+  "bracketSpacing": false,
+  "tabWidth": 2,
+  "useTabs": false,
+  "trailingComma": "all",
+  "singleQuote": true
 }
