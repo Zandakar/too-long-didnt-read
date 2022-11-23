@@ -53,10 +53,6 @@ const MailingList = () => {
         setHasSent(true)
       }
     }
-
-
-
-
   }
 
   const validateEmail = (() => {

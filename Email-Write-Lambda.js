@@ -18,6 +18,13 @@ export const handler = async (event) => {
         throw new Error('Event must include an mail address')
     }
 
+    const regex = /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/g
+    const isValid = regex.test(body.email)
+
+    if (!isValid) {
+        throw new Error('Email address is invalid.')
+    }
+
     const TABLE_NAME = "TLDR_Mail_List"
     const userEmail = body.email
 
