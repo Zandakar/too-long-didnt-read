@@ -18,11 +18,8 @@ const MailingList = () => {
   const [isSuccesful, setIsSuccesful] = useState(false)
   const [isValidEmail, setIsValidEmail] = useState(true)
 
-  const onClick = async () => {
-    console.log(emailValue)
-
+  const onSendClick = async () => {
     const isValid = validateEmail()
-    console.log(isValidEmail)
     if (isValid) {
       setIsSending(true)
       setHasSent(false)
@@ -73,6 +70,15 @@ const MailingList = () => {
   const onEmailChange = ((e: any) => {
     setEmailValue(e.target.value)
     setIsValidEmail(true)
+    setHasSent(false)
+    setIsSuccesful(false)
+  })
+
+
+  const handleTextKeypress = ((e: any) => {
+    if (e.code === 'Enter') {
+      onSendClick();
+    }
   })
 
 
@@ -85,13 +91,19 @@ const MailingList = () => {
           <div>If you would like a friendly reminder whenever I add a new post, add your email below</div>
         </div>
         <br></br>
-        <TextField id="filled-basic" label="Email Address" variant="filled" onChange={onEmailChange} error={!isValidEmail} />
+        <TextField
+          id="filled-basic"
+          label="Email Address"
+          variant="filled"
+          onChange={onEmailChange}
+          onKeyPress={handleTextKeypress}
+          error={!isValidEmail} />
         {!isValidEmail ? <div> Please enter a valid email address</div> : <div style={{ height: '30px' }}> </div>}
       </Content >
       <br></br>
       <div style={{ display: 'flex' }}>
         <Button
-          onClick={onClick}
+          onClick={onSendClick}
           disabled={isSending || !isValidEmail || isSuccesful}
           style={{
             borderRadius: 35,
@@ -113,7 +125,7 @@ const MailingList = () => {
       <div style={{ width: '80%', marginTop: '10px', marginLeft: '10px' }}>
         {
           // on Success
-          hasSent && isSuccesful && <div style={{ marginTop: '30px' }}>Success!</div>
+          hasSent && isSuccesful && <div style={{ marginTop: '30px' }}>{`Success! ${emailValue} has been added`}</div>
         }
         {
           // on fail
