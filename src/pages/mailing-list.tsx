@@ -12,49 +12,67 @@ import fetch from 'node-fetch';
 // https://mui.com/material-ui/api/form-control/
 
 const MailingList = () => {
-  const [emailField, setEmailField] = useState()
+  const [emailValue, setEmailValue] = useState('')
   const [isSending, setIsSending] = useState(false)
   const [hasSent, setHasSent] = useState(false)
   const [isSuccesful, setIsSuccesful] = useState(false)
+  const [isValidEmail, setIsValidEmail] = useState(true)
 
   const onClick = async () => {
-    console.log(emailField)
-    setIsSending(true)
-    setHasSent(false)
-    setIsSuccesful(false)
-    const body = { "email": emailField };
-    const API_GATEWAY_URL = `https://p23xchxvcg.execute-api.ap-southeast-2.amazonaws.com/prd/email/add`
+    console.log(emailValue)
 
-    try {
-      const response = await fetch(API_GATEWAY_URL, {
-        method: 'post',
-        body: JSON.stringify(body),
-        headers: { 'Content-Type': 'application/json' }
-      });
-      const data = await response.json();
+    const isValid = validateEmail()
+    console.log(isValidEmail)
+    if (isValid) {
+      setIsSending(true)
+      setHasSent(false)
+      setIsSuccesful(false)
+      const body = { "email": emailValue };
+      const API_GATEWAY_URL = `https://p23xchxvcg.execute-api.ap-southeast-2.amazonaws.com/prd/email/add`
 
-      console.log('data')
-      console.log(data)
+      try {
+        const response = await fetch(API_GATEWAY_URL, {
+          method: 'post',
+          body: JSON.stringify(body),
+          headers: { 'Content-Type': 'application/json' }
+        });
+        const data = await response.json();
 
-      if (data.message && data.message.includes('Error')) {
-        throw new Error('Error in send email request')
+        console.log('data')
+        console.log(data)
+
+        if (data.message && data.message.includes('Error')) {
+          throw new Error('Error in send email request')
+        }
+
+
+        setIsSending(false)
+        setHasSent(true)
+        setIsSuccesful(true)
+      } catch (e) {
+        console.log('send error')
+        console.error(e)
+        setIsSending(false)
+        setHasSent(true)
       }
-
-
-      setIsSending(false)
-      setHasSent(true)
-      setIsSuccesful(true)
-    } catch (e) {
-      console.log('send error')
-      console.error(e)
-      setIsSending(false)
-      setHasSent(true)
     }
+
+
+
 
   }
 
+  const validateEmail = (() => {
+    const regex = /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/g
+    const isValid = regex.test(emailValue)
+
+    setIsValidEmail(isValid)
+    return isValid
+  })
+
   const onEmailChange = ((e: any) => {
-    setEmailField(e.target.value)
+    setEmailValue(e.target.value)
+    setIsValidEmail(true)
   })
 
 
@@ -67,13 +85,14 @@ const MailingList = () => {
           <div>If you would like a friendly reminder whenever I add a new post, add your email below</div>
         </div>
         <br></br>
-        <TextField id="filled-basic" label="Email Address" variant="filled" onChange={onEmailChange} />
+        <TextField id="filled-basic" label="Email Address" variant="filled" onChange={onEmailChange} error={!isValidEmail} />
+        {!isValidEmail ? <div> Please enter a valid email address</div> : <div style={{ height: '30px' }}> </div>}
       </Content >
       <br></br>
       <div style={{ display: 'flex' }}>
         <Button
           onClick={onClick}
-          disabled={isSending}
+          disabled={isSending || !isValidEmail || isSuccesful}
           style={{
             borderRadius: 35,
             backgroundColor: "#419bf0",
@@ -85,20 +104,20 @@ const MailingList = () => {
 
       {
         // spinner
-        isSending ? <div style={{ marginTop: '10px', marginTop: '40px' }}>
+        isSending ? <div style={{ marginTop: '30px' }}>
           <CircularProgress></CircularProgress>
         </div> :
           // no spinner
           <div></div>
       }
-      <div style={{ width: '80%', marginTop: '40px' }}>
+      <div style={{ width: '80%', marginTop: '10px', marginLeft: '10px' }}>
         {
           // on Success
-          hasSent && isSuccesful && <div style={{ marginTop: '10px' }}>Success!</div>
+          hasSent && isSuccesful && <div style={{ marginTop: '30px' }}>Success!</div>
         }
         {
           // on fail
-          hasSent && !isSuccesful && <div style={{ marginTop: '10px', color: 'red' }}>
+          hasSent && !isSuccesful && <div style={{ marginTop: '30px', color: 'red' }}>
             Something went wrong, sorry! Throw me a line at
             tom.deruijter@hotmail.com and I can manually add you (and maybe fix this)</div>
         }
