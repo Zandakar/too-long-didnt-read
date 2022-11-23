@@ -20,6 +20,8 @@ const MailingList = () => {
   const onClick = async () => {
     console.log(emailField)
     setIsSending(true)
+    setHasSent(false)
+    setIsSuccesful(false)
     const body = { "email": emailField };
     const API_GATEWAY_URL = `https://p23xchxvcg.execute-api.ap-southeast-2.amazonaws.com/prd/email/add`
 
@@ -34,7 +36,7 @@ const MailingList = () => {
       console.log('data')
       console.log(data)
 
-      if (data.message.includes('Error')) {
+      if (data.message && data.message.includes('Error')) {
         throw new Error('Error in send email request')
       }
 
