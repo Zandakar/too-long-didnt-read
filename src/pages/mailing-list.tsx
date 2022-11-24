@@ -31,7 +31,8 @@ const MailingList = () => {
         const response = await fetch(API_GATEWAY_URL, {
           method: 'post',
           body: JSON.stringify(body),
-          headers: { 'Content-Type': 'application/json' }
+          headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
+          mode: 'cors'
         });
         const data = await response.json();
 
