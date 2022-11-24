@@ -15,5 +15,12 @@ export async function markdownToHtml(markdown: string) {
     .use(rehypePrism)
     .use(html)
     .process(markdown);
-  return result.toString().replace(/@@baseUrl@@/g, process.env.baseUrl || '');
+
+
+  const replacedResult = result.toString().replace(/@@baseUrl@@/g, process.env.baseUrl || '').replaceAll(`<img src=`, `<img loading="lazy" src=`);
+  return replacedResult
+
+
+
+
 }
