@@ -21,7 +21,6 @@ export async function markdownToHtml(markdown: string) {
 
   const replacedResult = result.toString().replace(/@@baseUrl@@/g, process.env.baseUrl || '')
 
-  console.log(replacedResult)
   return replacedResult
 
 
