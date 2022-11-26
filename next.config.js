@@ -9,6 +9,7 @@ module.exports = withBundleAnalyzer({
   poweredByHeader: false,
   trailingSlash: true,
   basePath: baseUrl,
+  images: {},
   env: {
     baseUrl,
   },

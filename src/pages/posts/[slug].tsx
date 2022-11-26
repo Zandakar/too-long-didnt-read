@@ -79,6 +79,10 @@ export const getStaticProps: GetStaticProps<IPostProps, IPostUrl> = async ({
   ]);
   const content = await markdownToHtml(post.content || '');
 
+
+  console.log(`---------- content ----------`)
+  console.log(content)
+
   return {
     props: {
       title: post.title,
