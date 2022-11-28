@@ -1,0 +1,8 @@
+{
+  "Source":"Tom de Ruijter <notifications@too-long-didnt-read.au>",
+  "Template": "MyTemplate",
+  "Destination": {
+    "ToAddresses": [ "tom.deruijter@hotmail.com"]
+  },
+  "TemplateData": "{ \"name\":\"Alejandro\", \"favoriteanimal\": \"alligator\" }"
+}
