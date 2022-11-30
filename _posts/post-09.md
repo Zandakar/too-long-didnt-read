@@ -38,6 +38,7 @@ Hungary was extremely complicit during WW2. Within 2 months, 440,000 Jews were d
  Travelling through Europe and listening to how WW2 played out in all the cities I visited you see a common theme - Hitler didn't convince millions of people to die for him, there was already a strong anti-Semitic sentiment throughout Europe, and he was simply able to capitalise on that. 
 \
 \
+*This statue was erected overnight by the government in commemoration to the victims of ww2, depicting an evil eagle (Germany) terrorising an angel (Hungary). The public felt that this was misleading and whitewashing, so they put the stories of the victims underneath*
 ![](/assets/images/posts/post-09/statue.jpg)
 \
 \
@@ -50,6 +51,7 @@ That'll be the last I write about WW2 for a while. It's been really interesting 
 My days are rather simple right now. My only responsibilities are my own, and my only real worry is how I'm going to spend my day. I'm bored, but in a good way, the kind of boredom that makes you observe and reflect. I feel different than I did 3 months ago, but also know how easy it is to fall back into old habits and mannerisms.
 \
 \
+*A classic Dutch kids show*
 ![](/assets/images/posts/post-09/culture.jpg)
 \
 \
@@ -80,9 +82,20 @@ Soon my visa will expire and I'll have to leave Europe. Because I stayed in Buda
 ![](/assets/images/posts/post-09/room.jpg)
 \
 \
+![](/assets/images/posts/post-09/govhouse3.jpg)
+\
+\
 ![](/assets/images/posts/post-09/street.jpg)
 \
 \
+*Lots of Xmas markets popping up all over the place*
+![](/assets/images/posts/post-09/xmas.jpg)
+\
+\
+![](/assets/images/posts/post-09/church.jpg)
+\
+\
+*Urban Exploring*
 ![](/assets/images/posts/post-09/urbex.jpg)
 \
 \
