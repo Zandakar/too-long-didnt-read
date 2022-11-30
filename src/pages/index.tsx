@@ -1,7 +1,6 @@
 import React from "react";
 
 import { GetStaticProps } from "next";
-import ReactGA from 'react-ga';
 
 import { BlogGallery, IBlogGalleryProps } from "../blog/BlogGallery";
 import { Meta } from "../layout/Meta";
