@@ -2,7 +2,7 @@
 title: "Wieners and Brat"
 description: Vienna, Bratislava
 date: "2022-11-22"
-modified_date: "2022-11-22"
+modified_date: "2022-11-29"
 image: /assets/images/posts/random-img.jpg
 ---
 Vienna (locally, Wien) is a really beautiful city. It's what I was expecting west Germany to be like. Austria and Germany have a friendly rivalry similar to Australians and New Zealand, albeit slightly more like siblings constantly trying to one-up each other. To their credit, they've been voted the most liveable city 10 years in a row by the Economist Intelligence Unit.

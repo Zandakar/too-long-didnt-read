@@ -11,7 +11,7 @@ You never get to see everything you want in any particular city. I wish I could 
 ![](/assets/images/posts/post-07/appartments.jpg)
 \
 \
-Prague has the kind of history that I wanted to see in Europe. Once the capital of the great Bohemia (which took up about 1/3 of Europe by size), it is now a humble city with a population of 1.3 Million. It holds the crown for most beer consumed by population at 181.7L / person annually. Pilsner Urquell, a local favourite, is the first Pilsner ever created around 1842.
+Prague has the kind of history that I wanted to see in Europe. Once the capital of the great Bohemia (which took up about 1/3 [edit: 1/5th] of Europe by size), it is now a humble city with a population of 1.3 Million. It holds the crown for most beer consumed by population at 181.7L / person annually. Pilsner Urquell, a local favourite, is the first Pilsner ever created around 1842.
 \
 \
 *In the distance is Prague castle, the biggest castle in the world*
