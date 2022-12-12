@@ -17,12 +17,23 @@ So why even bother to mediate? My first exposure to it was through my favourite 
 
 \
 \
-Teaches you to focus
-Focus is the supreme skill
-Time between action and reaction
-Allows you to change the course of your day
+Meditation really is the gym for your brain. We all understand the importance of being physically healthy, but these days most of the work we do is mental. Focus is the supreme skill, it doesn't matter if you're playing guitar, writing software, or a football player, and meditating really is just training focus. 
+\
+\
+The simplest form of meditation is called 'mindfulness'. You sit down, in a chair or on the floor, and set a timer. Personally I like 10 minutes, many do 20 or 5, but the most important thing is that you pick an amount of time that you know you can stick to. You start the timer, close your eyes, and focus on your breath as you inhale and exhale out through your nose. 
+\
+\
+Thing is, we all have 200,000 year old stupid monkey brains that continually need new distractions, so you'll inevitably start to think about what to make for dinner, that cringey thingy you said yesterday, or some problem you're currently working on. Don't get mad at yourself, and just go back to focusing on your breath. In and out. Each time you do this, you strengthen the focus muscle.
+\
+\
+It'll be pretty difficult at first, and chances are you probably can't hold your focus for more than 10 seconds. Meditation, like going to the gym, can take effort, but we don't go to the gym for the sake of going to the gym - we do it for the effects it gives us.
+\
+\
+Towards the end of your session it'll be better, and over multiple sessions it improves even more. Before too long, you notice your ability to focus increases. On top of this, some other benefits that you'll notice are that: 
 
+Your actions become more removed from your feelings. This makes you better at doing things when you don't feel like it, and also less likely to react impulsively when emotions run high.
 
-Meditation really is the gym for your brain. We all understand the importance of being physically healthy, but these days most of the work we do is mental. Focus is the supreme skill, it doesn't matter if you're playing guitar, writing software, or a football player. Meditation trains this by setting time aside to force your brain to focus on only one particular thing.
-
-
+* You start to think about what you're thinking about throughout the day. This makes you re-evaluate what you're doing, what you should be doing, and how you could be doing it better. 
+\
+\
+If these are qualities you'd like to improve, I urge you to take this challenge: Meditate for 10 minutes every day this week. If it does to you what it did for me, you'll see those 10 minutes as some of the best time you spend each day.
