@@ -38,13 +38,14 @@ const Page = () => (
           <li>{`Bring earplugs and a eye mask. A Buff or wrapping a Tshirt can do in a pinch`}</li>
           <li>{`Avoid places that charge you to hold luggage between checkins. They tend to miss the point / feel stale`}</li>
           <li>{`It's OK to spend the day doing nothing`}</li>
-          <li>{`More expensive hostels bring older crowds, cheaper ones party harder`}</li>
+          <li>{`If you want to party, look for party hostels`}</li>
           <li>{`Most cities have apps that let you buy public transport tickets`}</li>
           <li>{`Don't forget your shampoo / conditioner in the shower`}</li>
           <li>{`You can use a fanny pack to keep your belongings organised in bed if it has no storage compartment. Can sometimes clip it overhead.`}</li>
           <li>{`Hand towels make great travel towels`}</li>
           <li>{`Get an online bank card (Revolut / Ubank etc). They have great rates`}</li>
-          <li>{`If asked by the atm to do "conversion", select do not convert, else they charge a ~10-20% conversion fee`}</li>
+          <li>{`If asked by the atm to do "conversion", select do not convert, else they charge a ~10%-20% conversion fee`}</li>
+          <li>{`Some kind of a project will keep you sane`}</li>
         </ol>
         <br />
       </div>
