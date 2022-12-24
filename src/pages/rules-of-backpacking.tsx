@@ -26,9 +26,10 @@ const Page = () => (
           <li>{`If you're thinking too little, read. If you're thinking too much, write`}</li>
           <li>{`There is always someone in the room with you`}</li>
           <li>{`Get your vaccines and bring some meds`}</li>
-          <li>{`Don't book too far in advance, things change. They will always have a room.`}</li>
+          <li>{`Don't book too far in advance, things change. They will always have a room (at least in the off seasons).`}</li>
+          <li>{`Avoid booking too many days at once if you can avoid it, sometimes you just don't like the place`}</li>
           <li>{`Call hostels directly to save 10 - 15%`}</li>
-          <li>{`Only bring what you need right now. Buy the rest as you need it`}</li>
+          <li>{`Only bring what you absolutely need right now. Buy the rest as you need it`}</li>
           <li>{`Beds are giant mousepads`}</li>
           <li>{`Eat a salad sometimes`}</li>
           <li>{`I hope you like snoring`}</li>
@@ -41,6 +42,9 @@ const Page = () => (
           <li>{`Most cities have apps that let you buy public transport tickets`}</li>
           <li>{`Don't forget your shampoo / conditioner in the shower`}</li>
           <li>{`You can use a fanny pack to keep your belongings organised in bed if it has no storage compartment. Can sometimes clip it overhead.`}</li>
+          <li>{`Hand towels make great travel towels`}</li>
+          <li>{`Get an online bank card (Revolut / Ubank etc). They have great rates`}</li>
+          <li>{`If asked by the atm to do "conversion", select do not convert, else they charge a ~10-20% conversion fee`}</li>
         </ol>
         <br />
       </div>
