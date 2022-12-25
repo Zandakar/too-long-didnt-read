@@ -1,6 +1,6 @@
 ---
-title: "Istanbul"
-description: Description
+title: "City of Cats"
+description: Istanbul, Turkey
 date: "2022-12-24"
 modified_date: "2022-12-24"
 image: /assets/images/posts/random-img.jpg
