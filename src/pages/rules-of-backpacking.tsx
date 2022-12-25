@@ -16,7 +16,7 @@ const Page = () => (
       <div className="flex justify-center items-center"></div>
       <div>
         <ol className="list-decimal">
-          <li>{`Don't forget to bring a towel`}</li>
+          <li>{`Don't forget to bring a towel (Hand towels make great travel towels)`}</li>
           <li>{`Put your phone on silent`}</li>
           <li>{`PUT YOUR PHONE ON SILENT`}</li>
           <li>{`Always carry cash. Enough for a train ticket home, not enough to worry about losing`}</li>
@@ -42,9 +42,8 @@ const Page = () => (
           <li>{`Most cities have apps that let you buy public transport tickets`}</li>
           <li>{`Don't forget your shampoo / conditioner in the shower`}</li>
           <li>{`You can use a fanny pack to keep your belongings organised in bed if it has no storage compartment. Can sometimes clip it overhead.`}</li>
-          <li>{`Hand towels make great travel towels`}</li>
-          <li>{`Get an online bank card (Revolut / Ubank etc). They have great rates`}</li>
-          <li>{`If asked by the atm to do "conversion", select do not convert, else they charge a ~10%-20% conversion fee`}</li>
+          <li>{`Get an online bank card (Revolut / Ubank etc). They have great conversion rates and less fees`}</li>
+          <li>{`If asked by the ATM to do "conversion", select do not convert, else they charge a ~10%-20% conversion fee to do it for you`}</li>
           <li>{`Some kind of a project will keep you sane`}</li>
         </ol>
         <br />
