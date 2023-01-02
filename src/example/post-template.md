@@ -8,6 +8,6 @@ image: /assets/images/posts/random-img.jpg
 bla2
 \
 \
-![](/assets/images/posts/post-06/wall3.jpg)
+![](/assets/images/posts/post-1/.jpg)
 \
 \
