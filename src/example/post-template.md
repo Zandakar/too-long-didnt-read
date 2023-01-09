@@ -1,13 +1,13 @@
 ---
 title: ""
 description: Description
-date: "2022-12-12"
-modified_date: "2022-12-12"
+date: "2023-01-08"
+modified_date: "2023-01-08"
 image: /assets/images/posts/random-img.jpg
 ---
 bla2
 \
 \
-![](/assets/images/posts/post-06/wall3.jpg)
+![](/assets/images/posts/post-1/.jpg)
 \
 \
