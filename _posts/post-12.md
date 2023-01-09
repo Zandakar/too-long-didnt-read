@@ -1,8 +1,8 @@
 ---
 title: "Seasoned Traveller"
 description: Description
-date: "2023-01-08"
-modified_date: "2023-01-08"
+date: "2023-01-09"
+modified_date: "2023-01-09"
 image: /assets/images/posts/random-img.jpg
 ---
 So I've been on the road now for just over 3 months (a season if you will), and figured I would write about the experience of backpacking as a whole so far.
