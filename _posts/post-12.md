@@ -14,20 +14,22 @@ The first thing that really surprized me is the amount of time travelling takes 
 The upside from this is that it forces you to slow down. That, and simply being removed from the daily grind means that I've had a lot of time to think about my life and what I want to do in the future. You also realise that the things you miss from back home are what are truly important. 
 \
 \
-You get used to carrying less stuff. I've had a few comments made by people that I pack pretty light, but after a while it doesn't feel that way. The only thing I'm missing gear-wise is a second pair of shoes, and I might see if I can find a way to make that work now that I'm in snow territory.
+The lifestyle is pretty sustainable for long periods of time. Living out of your backpack becomes second nature - I truly feel like I have everything I need on me. It can also be done cheaper than I originally thought, although it really helps to have enough money to get a private room when you feel like you need one.
 \
 \
-People are sick everywhere, all the time. Because you're in such close contact with so many different people, the moment your immune system drops you'll feel it. It's important to try and look after your health.
+It feels like I've had a year's worth of life experience crammed into the last few months. The best thing about it is the amount of people you meet - you end up having some pretty interesting conversations and doing things on a whim that you didn't imagine when you woke up that morning. As far as age demographics, most people are between 21 and 25, some between 25 and 32, and you get the occasional old timer.
 \
 \
-
-
-It sounds cliche, but the people you meet are really what make it great. 
+I would recommend this kind of a trip to anyone that feels unsure about the direction of their life or themselves. While the experience doesn't solve all problems, it does offer a different perspective on what's important by taking a step back from everything and simply enjoying other cultures and people for a while. If anything, backpacking helps you understand that it's OK not to have all the answers all the time, but when you feel this way, it just means that you need to think of the right questions.
 
 
 
-All the touristy 
-You get pretty burned out of being a tourist after a while, it's something that's come up often in conversation with other backpackers.
+\
+
+
+
+
+
 
 
 
