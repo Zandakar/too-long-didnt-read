@@ -26,7 +26,7 @@ const Page = () => (
           <li>{`If you're thinking too little, read. If you're thinking too much, write`}</li>
           <li>{`There is always someone in the room with you`}</li>
           <li>{`Get your vaccines and bring some meds`}</li>
-          <li>{`Don't book too far in advance, things change. They will always have a room (at least in the off seasons).`}</li>
+          <li>{`The vibes are the most important thing in a hostel. Read the reviews`}</li>
           <li>{`Avoid booking too many days at once if you can avoid it, sometimes you just don't like the place`}</li>
           <li>{`Call hostels directly to save 10 - 15%`}</li>
           <li>{`Only bring what you absolutely need right now. Buy the rest as you need it`}</li>
@@ -45,6 +45,11 @@ const Page = () => (
           <li>{`Get an online bank card (Revolut / Ubank etc). They have great conversion rates and less fees`}</li>
           <li>{`If asked by the ATM to do "conversion", select do not convert, else they charge a ~10%-20% conversion fee to do it for you`}</li>
           <li>{`Some kind of a project will keep you sane`}</li>
+          <li>{`Learn to say hello, goodbye, thank you and excuse me in the local language`}</li>
+          <li>{`Don't wait in lines (unless you really want to), there's plenty of good food around`}</li>
+          <li>{`Book directly with the airline website instead of gotogate etc, they usually charge for check-in luggage`}</li>
+          <li>{`Bring one thick and one thin (wired) padlock since hostels have different lockers`}</li>
+          <li>{`This rule is omitted, for obvious reasons`}</li>
         </ol>
         <br />
       </div>
