@@ -8,7 +8,7 @@ image: /assets/images/posts/random-img.jpg
 *This page might take a while to load because I added lots of pictures*
 \
 \
-Seoul is the most modern city I've ever been to. The infrastructure is exceptionally good - not once did my 4G drop out (even in the metro), trains are extremely regular and the streets are as clean as they could be, especially considering the lack of bins. The food is on-point (although it can sometimes be a bit weird, like fermented crab), and the effort spent on fashion for both men and women is instantly noticeable.
+Seoul is the most modern city I've ever been to. The infrastructure is exceptionally good - not once did my 4G drop out (even in the metro), trains are extremely regular and the streets are as clean as they could be, especially considering the lack of bins. The food is on-point (although it can sometimes be a bit weird, like fermented crab), and the fashion sense for both men and women is instantly noticeable.
 \
 \
 ![](/assets/images/posts/post-13/bunny.jpg)
@@ -49,7 +49,7 @@ There are still 10 million families separated by the Demilitarized zone (DMZ) es
 ![](/assets/images/posts/post-13/nk.jpg)
 \
 \
-When the north was first established, it was actually richer than the south. It's crazy to see how much of an influence a government can have on a nation. It's a shame that the first time the country got a shot at true independence it was torn apart  again by bigger nations, this time through a proxy war. Despite this, the south remains hopeful that one day they'll get to see a unified Korea.
+When the north was first established, it was actually richer than the south. It's crazy to see how much of an influence a government alone can have on a nation. It's a shame that the first time the country got a shot at true independence it was torn apart  again by bigger nations, this time through a proxy war. Despite this, the south remains hopeful that one day they'll get to see a unified Korea.
 \
 \
 ![](/assets/images/posts/post-13/soldiers.jpg)
@@ -91,7 +91,7 @@ I've finally finished reading [Zen and the Art of Motorcycle Maintenance](https:
 ![](/assets/images/posts/post-13/jazz.jpg)
 \
 \
-*Biggest library in South Korea*
+*COEX Mall library*
 ![](/assets/images/posts/post-13/library.jpg)
 \
 \
