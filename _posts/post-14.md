@@ -17,7 +17,7 @@ While Taiwan isn't as clean and orderly as Korea or Japan, it makes up for it in
 ![](/assets/images/posts/post-14/city2.jpg)
 \
 \
-One of the biggest attractions are the night markets. You can usually find one within a few kilometres of your accommodation, although a handful are well known for certain specialties. The main attraction is food (I've seen lines that'd put Sizzler to shame),but stalls vending cheap clothes and arcade style children's games are mixed throughout. Most of the food leans towards the unhealthy but delicious side of the spectrum (as a local put it, "people go there to have fun").
+One of the biggest attractions are the night markets. You can usually find one within a few kilometres of your accommodation, although a handful are well known for certain specialties. The main attraction is food (I've seen lines that'd put Sizzler to shame), but stalls vending cheap clothes and arcade style children's games are mixed throughout. Most of the food leans towards the unhealthy but delicious side of the spectrum (as a local put it, "people go there to have fun").
 \
 \
 ![](/assets/images/posts/post-14/market.jpg)
@@ -42,6 +42,7 @@ About a hour and a half by train is Taichung, the small island's second biggest 
 \
 \
 I'm writing this from Vietnam, which will be my last destination before I head back home for a while. Guess we'll see how I feel when I get back, but that's how I feel now. Even if I end my trip here, I would love to do something like this again in the future (within 3 years), walk the Camino de Santiago, or spend 6 months at home in "retirement". But I guess I shouldn't really be thinking about my next trip just yet. See you all soon.
+\
 \
 ![](/assets/images/posts/post-14/101.jpg)
 \
