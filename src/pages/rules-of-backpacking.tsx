@@ -20,6 +20,7 @@ const Page = () => (
           <li>{`Put your phone on silent`}</li>
           <li>{`PUT YOUR PHONE ON SILENT`}</li>
           <li>{`Always carry cash. Enough for a train ticket home, not enough to worry about losing`}</li>
+          <li>{`Always carry some USD (in Asia)`}</li>
           <li>{`Don't forget to bring a towel (into the bathroom with you)`}</li>
           <li>{`Don't forget your passport in the hotel safe`}</li>
           <li>{`Use packing / compression cubes to organize your gear. Close them when you're done`}</li>
@@ -35,7 +36,7 @@ const Page = () => (
           <li>{`I hope you like snoring`}</li>
           <li>{`I hope you like other people's text notifications`}</li>
           <li>{`I hope you're not a shy pooper`}</li>
-          <li>{`Bring earplugs and a eye mask. A Buff or wrapping a Tshirt can do in a pinch`}</li>
+          <li>{`Bring earplugs and a eye mask. A Buff or wrapping a T-shirt can do in a pinch`}</li>
           <li>{`Avoid places that charge you to hold luggage between checkins. They tend to miss the point / feel stale`}</li>
           <li>{`It's OK to spend the day doing nothing`}</li>
           <li>{`If you want to party, look for party hostels`}</li>
@@ -50,6 +51,7 @@ const Page = () => (
           <li>{`Book directly with the airline website instead of gotogate etc, they usually charge for check-in luggage`}</li>
           <li>{`Bring one thick and one thin (wired) padlock since hostels have different lockers`}</li>
           <li>{`This rule is omitted, for obvious reasons`}</li>
+          <li>{`Best time to apply for a visa is 1 month - 2 weeks before`}</li>
         </ol>
         <br />
       </div>
