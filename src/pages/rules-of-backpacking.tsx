@@ -39,7 +39,7 @@ const Page = () => (
           <li>{`Bring earplugs and a eye mask. A Buff or wrapping a T-shirt can do in a pinch`}</li>
           <li>{`Avoid places that charge you to hold luggage between checkins. They tend to miss the point / feel stale`}</li>
           <li>{`It's OK to spend the day doing nothing`}</li>
-          <li>{`If you want to party, look for party hostels`}</li>
+          <li>{`If you want to party, look for party hostels. The less commerial ones are better`}</li>
           <li>{`Most cities have apps that let you buy public transport tickets`}</li>
           <li>{`Don't forget your shampoo / conditioner in the shower`}</li>
           <li>{`You can use a fanny pack to keep your belongings organised in bed if it has no storage compartment. Can sometimes clip it overhead.`}</li>
@@ -49,9 +49,13 @@ const Page = () => (
           <li>{`Learn to say hello, goodbye, thank you and excuse me in the local language`}</li>
           <li>{`Don't wait in lines (unless you really want to), there's plenty of good food around`}</li>
           <li>{`Book directly with the airline website instead of gotogate etc, they usually charge for check-in luggage`}</li>
-          <li>{`Bring one thick and one thin (wired) padlock since hostels have different lockers`}</li>
           <li>{`This rule is omitted, for obvious reasons`}</li>
+          <li>{`Bring one thick and one thin (wired) padlock since hostels have different lock sizes on the lockers`}</li>
           <li>{`Best time to apply for a visa is 1 month - 2 weeks before`}</li>
+          <li>{`Don't take airport taxis, call an uber or that country's equivalent`}</li>
+          <li>{`If you set more than two alarms to wake up in a dorm, I hope you get bed bugs`}</li>
+          <li>{`The more agressively they want you to go to their shop, the more you should avoid it`}</li>
+          <li>{`Don't be afraid to strike up conversation`}</li>
         </ol>
         <br />
       </div>
