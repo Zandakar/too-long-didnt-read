@@ -56,6 +56,8 @@ const Page = () => (
           <li>{`If you set more than two alarms to wake up in a dorm, I hope you get bed bugs`}</li>
           <li>{`The more agressively they want you to go to their shop, the more you should avoid it`}</li>
           <li>{`Don't be afraid to strike up conversation`}</li>
+          <li>{`Consider laying over for a day to get 2 cheaper flights. Can get up to 50% off this way`}</li>
+          <li>{`Never take airport taxis unless you know what you're doing. Get an uber instead`}</li>
         </ol>
         <br />
       </div>
