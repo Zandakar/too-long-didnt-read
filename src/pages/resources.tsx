@@ -30,11 +30,13 @@ const Page = () => (
       <div>
         <ol className="list-decimal">
           <li>{`HostelWorld - Best app for booking hostels. Puts you in chats with all others who are staying there`}</li>
+          <li>{`Skyscanner - Consistenly has the cheapest flights`}</li>
+          <li>{`Couchsurfing - Great way to meet people to hang out, locals or otherwise`}</li>
           <li>{`AirBnB - Other than accomidation, the experiences you can find on here are pretty cool`}</li>
           <li>{`GetYourGuide - Walking tours, bar crawls, general experiences`}</li>
           <li>{`GuruWalk - Cheap and consistently good walking tours. Great first activity in a city`}</li>
           <li>{`Workaway - find volunteer work. Costs 50€ / year but has some really cool gigs`}</li>
-          <li>{`FlixBus - Cheap European intra and international travel`}</li>
+          <li>{`FlixBus - Cheap European intra and international travel, generally by bus`}</li>
         </ol>
         <br />
       </div>
